@@ -1,8 +1,7 @@
 ---
 title: Configuration
 weight: 2
-status: draft
-draft: true
+status: published
 ---
 The configuration of your site can be found in `config/_default/`.
 

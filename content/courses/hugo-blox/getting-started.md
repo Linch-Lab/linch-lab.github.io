@@ -3,8 +3,7 @@ title: Getting Started
 date: 2024-02-17
 weight: 1
 type: docs
-status: draft
-draft: true
+status: published
 ---
 ## Quick Start from Template
 

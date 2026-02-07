@@ -24,8 +24,7 @@ cover:
     height: 80px
   icon:
     name: ✨
-status: draft
-draft: true
+status: published
 ---
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 

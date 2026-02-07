@@ -1,8 +1,7 @@
 ---
 title: Cards
 linkTitle: Cards
-status: draft
-draft: true
+status: published
 ---
 A Hugo extension to create cards. Cards can be shown as links or as plain text.
 

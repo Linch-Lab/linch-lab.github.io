@@ -28,8 +28,7 @@ tags:
   - Markdown
 content_meta:
   trending: true
-status: draft
-draft: true
+status: published
 ---
 Welcome 👋
 

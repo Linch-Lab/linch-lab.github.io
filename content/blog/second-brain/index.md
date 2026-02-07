@@ -24,8 +24,7 @@ cover:
     height: 80px
   icon:
     name: ✨
-status: draft
-draft: true
+status: published
 ---
 Create a personal knowledge base and share your knowledge with your peers.
 
