@@ -26,7 +26,8 @@ cover:
     height: 80px
   icon:
     name: ✨
-status: published
+status: draft
+draft: true
 ---
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
 
