@@ -18,8 +18,7 @@ image:
   placement: 1
 content_meta:
   trending: true
-status: archived
-draft: true
+status: published
 ---
 As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
 
