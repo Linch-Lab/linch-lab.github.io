@@ -1,54 +1,50 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+title: ""
+summary: ""
 date: 2022-10-24
 type: landing
-
 design:
-  # Default section spacing
-  spacing: '6rem'
-
+  spacing: 6rem
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      text: ""
       button:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 📚 My Research
+      subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
+        My research investigates the core mechanisms of **Green Hydrogen** production and conversion. Key areas include: <ul>
+        <li><strong>Advancement of MEA Architecture</strong>: Engineering high-efficiency Membrane Electrode Assemblies (MEAs) to enhance power density and electrochemical durability in fuel cell and electrolyzer systems.</li>
+        <li><strong>Electrocatalyst Synthesis</strong>: Developing non-precious metal catalyst structures and functional interfaces to reduce material costs while maintaining superior catalytic activity.</li>
+        <li><strong>Systemic Optimization</strong>: Analyzing mass transport phenomena and electrode morphology to ensure robust performance across diverse operational parameters.</li>
+        <li><strong>Advanced Surface Engineering</strong>: Utilizing high-precision manufacturing technologies for the micro-structuring of electrode surfaces and functional substrates.</li>
+        <li><strong>Atomic-Level Deposition</strong>: Proficient in Pulsed Laser Deposition (PLD) and CVD for the controlled synthesis of complex functional energy materials.</li>
+        <li><strong>Advanced Diagnostics</strong>: Specialized in the characterization of material properties using SEM, TEM, and Electrochemical Impedance Spectroscopy (EIS).</li>
+        <li><strong>Automated Analytical Pipelines</strong>: Leveraging Python to develop custom algorithms that streamline the processing and visualization of complex electrochemical datasets, minimizing manual intervention.</li>
+        <li><strong>Instrumentation Control</strong>: Integrating LabVIEW for real-time, synchronized data acquisition and precise control of experimental hardware.</li>
+        <li><strong>Laboratory Digitalization</strong>: Designing automated platforms, such as 2D-CNC systems, to achieve high-precision repeatability in material fabrication and testing protocols.</li>
+        </ul>
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: "1"
   - block: collection
     id: papers
     content:
@@ -63,7 +59,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ''
+      text: ""
       filters:
         folders:
           - publications
@@ -83,33 +79,30 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
+      subtitle: ""
+      text: ""
       page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
       count: 10
-      # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
+        publication_type: ""
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding:
+          - 0
+          - 0
+          - 0
+          - 0
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -125,7 +118,8 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+        css_class: bg-primary-300 dark:bg-primary-700
+        css_style: ""
+status: draft
+draft: true
 ---

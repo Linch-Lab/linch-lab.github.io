@@ -3,105 +3,168 @@ slug: "me"
 is_owner: true
 name:
   display: "Dr. Ching-Hsien Lin"
-  given: "Alex"
-  family: "Johnson"
-  alternate: ""
+  given: "Ching-Hsien"
+  family: "Lin"
+  alternate: "林晉賢"
   pronunciation: ""
-  pronouns: "he/him"
+  pronouns: ""
 postnominals:
   - "PhD"
-  - "MIEEE"
+  - ""
 status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
-affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  icon: "☕"
+role: "Postdoctoral Fellow in Hydrogen Energy"
+bio: 
+    "I am a **Postdoctoral Fellow at Academia Sinica**, where my research investigates the fundamental mechanisms and systemic optimization of **Proton Exchange Membrane Fuel Cells (PEMFC)** and **Anion Exchange Membrane Water Electrolyzers (AEMWE)**. Bridging the disciplines of Materials Physics and Mechanical Engineering, I specialize in the synthesis of high-performance electrochemical components through precision fabrication and advanced thin-film deposition techniques. <br> In my concurrent role as **Special Assistant** to the Director of the **Hydrogen Energy Research Center at NCU**, I facilitate strategic industry-academia collaborations and coordinate research initiatives aimed at accelerating the global transition toward a sustainable hydrogen economy."  
+affiliations:  
+  - name: "Institute of Chemistry, Academia Sinica"
+    url: "https://www.chem.sinica.edu.tw/"
+  - name: "National Central University"
+    url: "https://www.ncu.edu.tw/"
+  - name: "Hydrogen Energy Research Center"
+    url: "https://herc.ncu.edu.tw/"
 links:
-  - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
-    label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
+  - icon: "hero/at-symbol"
+    url: "gibson4129@as.edu.tw"
+    label: "Email"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/Linch-Lab"
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
   - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://orcid.org/0000-0003-3299-1809"
+  - icon: "brands/instagram"
+    url: "https://www.instagram.com/linch_35th/"
+    label: "Instagram"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Green Hydrogen Production"
+  - "PEM Fuel Cells (PEMFC)"
+  - "AEM Water Electrolysis (AEMWE)"
+  - "Laser Material Processing"
+  - "Electrocatalysis"
+  - "Scientific Data Automation"
+  - "Laboratory Automation"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
+  - degree: "PhD in Mechanical Engineering"
+    institution: "National Central University"
+    start: "2019-02"
+    end: "2024-06"
+    summary: "Thesis: “Development of high-performance membrane electrode assembly of PEMFC”"
     button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+      text: "Thesis"
+      url: "https://hdl.handle.net/11296/4u9m9w"
+      icon: "hero/document"
+  - degree: "MS in Physics"
+    institution: "National Central University"
+    start: "2015-09"
+    end: "2018-06"
+    summary: "Thesis: “Fabrication of efficient halide perovskite LED by surfactant-assisted formation of nanometer-sized grains during spin coating of perovskite layer”"
+    button:
+      text: "Thesis"
+      url: "https://hdl.handle.net/11296/4dx75r"
+      icon: "hero/document"
+  - degree: "BS in Phiysics"
+    institution: "Fu Jen Catholic University"
+    start: "2011-09"
+    end: "2015-06"
+    summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Special Assistant"
+    org: "Hydrogen Energy Research Center, National Central University"
+    start: "2025-05"
+    end: ""
+    summary: "-Built and maintained the center’s website
+
+      -Assisted in workshops and conference organization
+
+      -Supported project proposals and documentation
+
+      -Coordinated project management tasks
+
+      -Designed the official logo and branding\n"
+  - role: "Postdoctoral Fellow"
+    org: "Academia Sinica"
+    start: "2024-08"
+    end: ""
+    summary: ""
+  - role: "Special Assistant"
+    org: "Taiwan Association for Hydrogen Energy and Fuel Cells"
+    start: "2020-02"
+    end: "2023-10"
+    summary: "Assistant to the President
+
+      -Assisted in organizing academic seminars and events
+
+      -Drafted press releases and research reports
+
+      -Supported the preparation of industry–academia collaboration reports"
+  - role: "Research Assistant"
+    org: "Academia Sinica"
+    start: "2020-02"
+    end: "2020-12"
+    summary: ""
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
         level: 5
-      - label: "Machine Learning"
+      - label: "MATLAB"
+        level: 4
+      - label: "LabVIEW"
         level: 5
-      - label: "Cloud Computing"
+      - label: "Engineering Software"
+        level: 4
+      - label: "Thin-film Deposition"
+        level: 5
+      - label: "Material Characterization"
+        level: 4
+      - label: "Laser Micro-machining"
+        level: 5
+      - label: "PEMFC/AEMWE R&D"
+        level: 5
+      - label: "Electrode Fabrication"
+        level: 5
+      - label: "Fuel Cell Stack Assembly"
+        level: 4
+      - label: "Oxyhydrogen Technology"
         level: 4
   - name: "Research & Communication"
     items:
-      - label: "Academic Writing"
+      - label: "Experimental Design & Execution"
         level: 5
-      - label: "Conference Presentations"
+      - label: "Scientific Writing"
+        level: 5
+      - label: "Data Analysis & Automation"
+        level: 5
+      - label: "Grant & Proposal Writing"
+        level: 5
+      - label: "International Networking"
         level: 4
-      - label: "Grant Proposals"
+      - label: "Technical Presentation"
+        level: 5
+      - label: "Leadership & Coordination"
+        level: 5
+      - label: "Bilingual Proficiency"
         level: 4
 languages:
-  - name: "English"
-    level: 5
+  - name: "Chinese"
+    level: null
     label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
+  - name: "English"
+    level: null
+    label: "Advanced"
+  - name: "Japanese"
+    level: null
+    label: "A2"
+  - name: "German"
+    level: null
+    label: "A2"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
+  - title: "2025新創千里馬創業競賽永續奬"
+    awarder: "CAIC, NCU"
+    date: "2025-06-24"
+    summary: "Startup Project: Innovative Oxyhydrogen Flame Technology for Sustainable Energy Applications"
     icon: "hero/trophy"
+ids:
+  orcid: "0000-0003-3299-1809"
+  scopus: "57226806518"

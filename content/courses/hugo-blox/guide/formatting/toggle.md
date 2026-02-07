@@ -1,7 +1,8 @@
 ---
 title: Spoilers
+status: draft
+draft: true
 ---
-
 A Hugo shortcode to toggle collapsible content.
 
 <!--more-->

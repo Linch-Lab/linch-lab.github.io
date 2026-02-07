@@ -1,8 +1,9 @@
 ---
 title: Steps
 linkTitle: Steps
+status: draft
+draft: true
 ---
-
 Display a series of steps, such as for a tutorial.
 
 ## Example
