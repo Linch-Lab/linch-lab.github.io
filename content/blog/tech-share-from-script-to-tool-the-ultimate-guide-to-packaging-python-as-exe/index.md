@@ -1,9 +1,7 @@
 ---
 title: "[Tech Share] From Script to Tool: The Ultimate Guide to Packaging Python
   as .exe"
-summary: This post summarizes the most stable workflow for packaging your Python
-  scripts into Windows executables (.exe) and shares some "insider" tips for
-  software deployment.
+summary: '[技術分享] 從腳本到工具：將 Python 打包為 .exe This post summarizes the most stable workflow for packaging your Python scripts into Windows executables (.exe) and shares some "insider" tips for software deployment.'
 date: 2026-02-07
 draft: false
 image:
@@ -34,7 +32,6 @@ content_meta:
   trending: false
 
 ---
-[技術分享] 從腳本到工具：將 Python 打包為 .exe 的終極指南
 After developing a professional data analysis tool the most common challenge is: *"How do I share this tool with colleagues or stakeholders who don't have Python installed?"*
 
 This post summarizes the most stable workflow for packaging your Python scripts into Windows executables (`.exe`) and shares some "insider" tips for software deployment.

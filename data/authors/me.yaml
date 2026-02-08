@@ -14,9 +14,8 @@ postnominals:
 status:
   icon: "☕"
 role: "Postdoctoral Fellow in Hydrogen Energy"
-bio: 
-    "I am a **Postdoctoral Fellow at Academia Sinica**, where my research investigates the fundamental mechanisms and systemic optimization of **Proton Exchange Membrane Fuel Cells (PEMFC)** and **Anion Exchange Membrane Water Electrolyzers (AEMWE)**. Bridging the disciplines of Materials Physics and Mechanical Engineering, I specialize in the synthesis of high-performance electrochemical components through precision fabrication and advanced thin-film deposition techniques. <br> In my concurrent role as **Special Assistant** to the Director of the **Hydrogen Energy Research Center at NCU**, I facilitate strategic industry-academia collaborations and coordinate research initiatives aimed at accelerating the global transition toward a sustainable hydrogen economy."  
-affiliations:  
+bio: "I am a **Postdoctoral Fellow at Academia Sinica**, where my research investigates the fundamental mechanisms and systemic optimization of **Proton Exchange Membrane Fuel Cells (PEMFC)** and **Anion Exchange Membrane Water Electrolyzers (AEMWE)**. Bridging the disciplines of Materials Physics and Mechanical Engineering, I specialize in the synthesis of high-performance electrochemical components through precision fabrication and advanced thin-film deposition techniques. <br> In my concurrent role as **Special Assistant** to the Director of the **Hydrogen Energy Research Center at NCU**, I facilitate strategic industry-academia collaborations and coordinate research initiatives aimed at accelerating the global transition toward a sustainable hydrogen economy."
+affiliations:
   - name: "Institute of Chemistry, Academia Sinica"
     url: "https://www.chem.sinica.edu.tw/"
   - name: "National Central University"
@@ -165,6 +164,11 @@ awards:
     date: "2025-06-24"
     summary: "Startup Project: Innovative Oxyhydrogen Flame Technology for Sustainable Energy Applications"
     icon: "hero/trophy"
+  - title: "2024未來科技獎"
+    awarder: "Future Tech, FUTEX"
+    date: "2024"
+    summary: "[多孔電極與非貴金屬觸媒：陰離子交換膜水電解技術的未來](https://www.futuretech.org.tw/futuretech/index.php?action=product_detail&prod_no=P0008700007704)"
+    icon: ""
 ids:
   orcid: "0000-0003-3299-1809"
   scopus: "57226806518"
