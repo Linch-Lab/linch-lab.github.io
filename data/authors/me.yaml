@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Dr. Ching-Hsien Lin"
+  display: "Ching-Hsien Lin"
   given: "Ching-Hsien"
   family: "Lin"
   alternate: "林晉賢"
