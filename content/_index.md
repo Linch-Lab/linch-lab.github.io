@@ -52,7 +52,7 @@ sections:
       text: |-
         Besides research, I build small tools for my own workflow and share them openly.
         <ul>
-        <li><strong><a href="https://poplingo.billlinch.com/">PopLingo</a></strong> — a Windows instant-translation tool. Press <code>Ctrl+Alt+T</code> inside any text box, type in your own language, and the translation is inserted for you. Built so that Chinese, Japanese and Korean input methods keep working. <a href="https://github.com/Linch-Lab/poplingo">Source</a> · <a href="https://poplingo.billlinch.com/download.html">Download</a></li>
+        <li><strong><a href="https://linlingo.billlinch.com/">LinLingo</a></strong> — a Windows instant-translation tool. Press <code>Ctrl+Alt+T</code> inside any text box, type in your own language, and the translation is inserted for you. Built so that Chinese, Japanese and Korean input methods keep working. <a href="https://github.com/Linch-Lab/linlingo">Source</a> · <a href="https://linlingo.billlinch.com/download.html">Download</a></li>
         </ul>
     design:
       columns: "1"

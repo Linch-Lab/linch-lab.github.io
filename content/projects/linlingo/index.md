@@ -1,12 +1,12 @@
 ---
-title: PopLingo
+title: LinLingo
 summary: A Windows instant-translation tool that works in any text box — and keeps your IME working.
 date: 2026-09-28
 links:
   - type: site
-    url: https://poplingo.billlinch.com/
+    url: https://linlingo.billlinch.com/
   - type: github
-    url: https://github.com/Linch-Lab/poplingo
+    url: https://github.com/Linch-Lab/linlingo
 tags:
   - Windows
   - Python
@@ -16,7 +16,7 @@ status: published
 draft: false
 ---
 
-**PopLingo** is a global-hotkey translation tool for Windows. Press `Ctrl+Alt+T` inside any
+**LinLingo** is a global-hotkey translation tool for Windows. Press `Ctrl+Alt+T` inside any
 text box, type in your own language in a small floating card, then press `Enter` to insert the
 translation — no window switching, no copy-paste.
 
@@ -24,7 +24,7 @@ translation — no window switching, no copy-paste.
 
 Most similar tools use a low-level keyboard hook to intercept typing, and that **breaks
 Chinese, Japanese and Korean input method composition** — IMEs need the real keystrokes to
-build characters. PopLingo instead makes the card itself the input surface, so Zhuyin, Pinyin
+build characters. LinLingo instead makes the card itself the input surface, so Zhuyin, Pinyin
 and other IMEs keep working normally.
 
 ## Features
@@ -38,12 +38,12 @@ and other IMEs keep working normally.
 - **Configurable card** — font size and colour for both the input and the translation text,
   with a live preview in the settings window
 - **No data collection** — no ads, no tracking, no telemetry
-- **Settings survive updates** — stored in `%APPDATA%\PopLingo`
+- **Settings survive updates** — stored in `%APPDATA%\LinLingo`
 - **MIT licensed**, single Python file you can audit and build yourself
 
 ## Links
 
-- Website: <https://poplingo.billlinch.com/>
-- Download: <https://poplingo.billlinch.com/download.html>
-- Source code: <https://github.com/Linch-Lab/poplingo>
-- Documentation and FAQ: <https://poplingo.billlinch.com/faq.html>
+- Website: <https://linlingo.billlinch.com/>
+- Download: <https://linlingo.billlinch.com/download.html>
+- Source code: <https://github.com/Linch-Lab/linlingo>
+- Documentation and FAQ: <https://linlingo.billlinch.com/faq.html>
